@@ -79,12 +79,5 @@ This project is licensed under the MIT License.
 
 ⭐ If you found this useful, don't forget to star the repo!
 
----
 
-If you want, I can also:
-- Add badges (like build status, tech used, etc.),
-- Add screenshots section placeholders,
-- Add deployment link (if hosted).
-
-Just tell me if you want a **more advanced README** or a **minimal one**.
 
