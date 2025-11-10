@@ -35,28 +35,6 @@ It provides a streamlined interface to book appointments, manage schedules, and 
 
 ---
 
-## 📦 Installation & Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/medicare.git
-2.Navigate into the project folder:
-cd medicare
-
-
-
-3.Install dependencies:
-npm install      # or pip install -r requirements.txt
-
-
-
-4.Run the server:
-npm start        # or python app.py
-
-
-
-
-
 ✅ Future Enhancements
 
 
