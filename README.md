@@ -28,10 +28,10 @@ It provides a streamlined interface to book appointments, manage schedules, and 
 ---
 
 ## 🧰 Tech Stack (Example — edit according to your project)
-- **Frontend**: HTML, CSS, JavaScript / React (if used)
-- **Backend**: Node.js / Python / PHP (your stack)
-- **Database**: MySQL / Firebase / MongoDB
-- **Authentication**: JWT / Session-based login
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: PHP 
+- **Database**: MySQL 
+
 
 ---
 
